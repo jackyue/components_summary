@@ -1,7 +1,7 @@
 
-|模块|名称|代码路径|
-|----|----|----|
-|0.数据协议|protobuf|https://github.com/google/protobuf|
+|模块|描述|名称|代码路径|
+|----|----|----|----|
+|0.数据协议|数据存储格式|protobuf|https://github.com/google/protobuf|
 ||thrift|https://github.com/apache/thrift|
 |1.web服务器|nginx|https://github.com/nginx/nginx|
 ||apache|https://github.com/apache/httpd|
@@ -47,3 +47,6 @@
 ||python|https://www.python.org/|
 |16.构建工具|bazel|https://github.com/bazelbuild/bazel|
 ||blade|https://github.com/chen3feng/typhoon-blade|
+|17.性能分析工具|gperftools|https://github.com/gperftools/gperftools|
+||Valgrind|https://github.com/mozilla-b2g/valgrind|
+||pprof|https://github.com/google/pprof|
