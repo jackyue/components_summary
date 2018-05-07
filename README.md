@@ -8,3 +8,5 @@
 ||spark|https://github.com/apache/spark|
 ||storm|https://github.com/apache/storm|
 ||pig|https://github.com/apache/pig|
+|分布式文件系统|hdfs|https://github.com/apache/hadoop-hdfs|
+|数据仓库|mysql|https://github.com/mysql/mysql-server|
