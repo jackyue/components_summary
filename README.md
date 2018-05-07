@@ -33,7 +33,8 @@
 ||memcached|https://github.com/memcached/memcached|
 |11.OLAP查询引擎|druid|https://github.com/druid-io/druid|
 |12.检索引擎|lucene|https://github.com/apache/lucene-solr|
-|13.深度学习框架|tensorflow|https://github.com/tensorflow/tensorflow|
+|13.机器学习|tensorflow|https://github.com/tensorflow/tensorflow|
+||xgboost|https://github.com/dmlc/xgboost|
 ||caffe|https://github.com/BVLC/caffe|
 |14.单元测试|gtest|https://github.com/google/googletest|
 ||junit|https://github.com/junit-team/junit5|
@@ -41,3 +42,5 @@
 ||java|https://docs.oracle.com/javase/tutorial/|
 ||go|https://golang.org/|
 ||python|https://www.python.org/|
+|16.构建工具|bazel|https://github.com/bazelbuild/bazel|
+||blade|https://github.com/chen3feng/typhoon-blade|
