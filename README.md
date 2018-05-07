@@ -3,7 +3,8 @@
 |----|----|----|
 |1.数据协议|protobuf|https://github.com/google/protobuf|
 ||thrift|https://github.com/apache/thrift|
-|2.消息系统|Kafka|https://github.com/apache/kafka|
+|2.消息系统|kafka|https://github.com/apache/kafka|
+||rabbitmq|https://github.com/rabbitmq/rabbitmq-server|
 |3.分布式计算框架|Hadoop/MR|https://github.com/apache/hadoop-mapreduce|
 ||spark|https://github.com/apache/spark|
 ||storm|https://github.com/apache/storm|
