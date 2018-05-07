@@ -14,7 +14,8 @@
 |4.日志系统|glog|https://github.com/google/glog|
 ||log4j|https://github.com/apache/log4j|
 ||glog|https://github.com/google/glog|
-|5.消息系统|kafka|https://github.com/apache/kafka|
+|5.日志采集|kafka|https://github.com/apache/kafka|
+||flume|https://github.com/apache/flume|
 ||rabbitmq|https://github.com/rabbitmq/rabbitmq-server|
 |6.分布式文件系统|hdfs|https://github.com/apache/hadoop-hdfs|
 |7.分布式计算框架|mapreduce|https://github.com/apache/hadoop-mapreduce|
