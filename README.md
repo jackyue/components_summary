@@ -13,6 +13,7 @@
 ||postgresql|https://github.com/postgres/postgres|
 ||hive|https://github.com/apache/hive|
 ||hbase|https://github.com/apache/hbase|
+||leveldb|https://github.com/google/leveldb|
 |6.缓存|redis|https://github.com/antirez/redis|
 ||memcached|https://github.com/memcached/memcached|
 |7.OLAP查询引擎|druid|https://github.com/druid-io/druid|
