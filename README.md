@@ -29,6 +29,8 @@
 ||hive|https://github.com/apache/hive|
 ||hbase|https://github.com/apache/hbase|
 ||leveldb|https://github.com/google/leveldb|
+||phxsql|https://github.com/Tencent/phxsql|
+||canal|https://github.com/alibaba/canal|
 |10.缓存|redis|https://github.com/antirez/redis|
 ||memcached|https://github.com/memcached/memcached|
 |11.OLAP查询引擎|druid|https://github.com/druid-io/druid|
