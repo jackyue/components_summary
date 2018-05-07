@@ -1,5 +1,4 @@
 
-|0.数据协议|数据存储格式|protobuf|https://github.com/google/protobuf|
 |模块|名称|代码路径|
 |----|----|----|
 |0.数据协议|protobuf|https://github.com/google/protobuf|
