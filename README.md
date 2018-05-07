@@ -39,6 +39,7 @@
 ||xgboost|https://github.com/dmlc/xgboost|
 ||caffe|https://github.com/BVLC/caffe|
 |14.单元测试|gtest|https://github.com/google/googletest|
+||gmock|https://github.com/google/googlemock|
 ||junit|https://github.com/junit-team/junit5|
 |15.语言|c++|http://www.cplusplus.com/doc/tutorial/|
 ||java|https://docs.oracle.com/javase/tutorial/|
