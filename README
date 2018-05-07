@@ -1,90 +1,13 @@
 <markdown>
 
-    模块 | 名称 | 代码路径
-    ---- | ---- | ----
-    数据协议 | protobuf |
-           | Thrift |
-    消息系统 | Kafka |
-    分布式计算框架 | Hadoop/MR |
-                | Spark |
-                | Storm |
-                | pig |
-
-github stars:
-
-技术面试需要掌握的基础知识整理
-Interview-Notebook
-
-Industrial-grade RPC framework used throughout Baidu
-brpc
-
-kafka
-
-教你如何提问并获得满意的答案
-How-To-Ask-Questions-The-Smart-Way
-
-小程序组件化开发框架
-wepy
-
-revive-adserver
-The world's most popular free, open source ad serving system
-
-interviews
-Everything you need to know to get the job.
-
-glog
-C++ implementation of the Google logging module
-
-canal
-阿里巴巴mysql数据库binlog的增量订阅&消费组件 。
-
-
-soulmachine / leetcode
-LeetCode题解，151道题完整版
-
-xgboost
-
-facebook / folly
-An open-source C++ library developed and used at Facebook.
-
-bazel
-a fast, scalable, multi-language and extensible build system
-
-apollo
-An open autonomous driving platform
-
-leveldb
-LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
-
-
-ty4z2008 / Qix
-Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang
-
-
-Tencent / phxsql
-A high availability MySQL cluster that guarantees data consistency between a master and slaves.
-
-
-memcached / memcached
-memcached development tree
-
-
-Tencent / rapidjson
-A fast JSON parser/generator for C++ with both SAX/DOM style API
-
-
-antirez / redis
-Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.
-
-nathanmarz / storm
-Distributed and fault-tolerant realtime computation: stream processing, continuous computation, distributed RPC, and more
-
-
-chen3feng / typhoon-blade
-Building system of typhoon cloud computing platform of tencent, support C/C++/protobuf/thrift/lex/yacc/swig.
-
-
-wuweiit / weixinapi
-Java实现的微信API接口SDK
+|模块|名称|代码路径|
+|----|----|----|
+|数据协议|protobuf||
+||Thrift||
+|消息系统|Kafka||
+|分布式计算框架|Hadoop/MR||
+||Spark||
+||Storm||
+||pig||
 
 </markdown>
