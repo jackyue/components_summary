@@ -1,15 +1,12 @@
-<markdown>
-
-
-        模块 | 名称 | 代码路径
-        ------------- | -------------
-        数据协议 | protobuf |
-        数据协议 | Thrift |
-        消息系统 | Kafka |
-        分布式计算框架 | Hadoop/MR |
-        分布式计算框架 | Spark |
-        分布式计算框架 | Storm |
-        分布式计算框架 | pig |
+模块 | 名称 | 代码路径
+---- | ---- | ----
+数据协议 | protobuf |
+       | Thrift |
+消息系统 | Kafka |
+分布式计算框架 | Hadoop/MR |
+            | Spark |
+            | Storm |
+            | pig |
 
 github stars:
 
@@ -87,5 +84,3 @@ Building system of typhoon cloud computing platform of tencent, support C/C++/pr
 
 wuweiit / weixinapi
 Java实现的微信API接口SDK
-
-</markdown>
