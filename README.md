@@ -50,3 +50,4 @@
 |17.性能分析工具|gperftools|https://github.com/gperftools/gperftools|
 ||Valgrind|https://github.com/mozilla-b2g/valgrind|
 ||pprof|https://github.com/google/pprof|
+|18.持续集成工具|jenkins|https://github.com/jenkinsci/jenkins|
