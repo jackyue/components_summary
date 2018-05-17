@@ -1,8 +1,8 @@
 
-|模块|名称|代码路径|
-|----|----|----|
-|0.数据协议|protobuf|https://github.com/google/protobuf|
-||thrift|https://github.com/apache/thrift|
+|模块|名称|功能|代码路径|
+|----|----|----|----|
+|0.数据协议|protobuf|结构化数据的传输与存储等|https://github.com/google/protobuf|
+||thrift|结构化数据的传输与存储，通讯框架实现等|https://github.com/apache/thrift|
 |1.web服务器|nginx|https://github.com/nginx/nginx|
 ||apache|https://github.com/apache/httpd|
 |2.网络应用程序框架|netty|https://github.com/netty/netty|
