@@ -7,8 +7,8 @@
 ||apache|https://github.com/apache/httpd|
 |2.网络应用程序框架|netty|https://github.com/netty/netty|
 ||grpc|https://github.com/grpc/grpc|
-||brpc|https://github.com/baidu/sofa-pbrpc|
-||sofa-pbrpc|https://github.com/brpc/brpc|
+||sofa-pbrpc|https://github.com/baidu/sofa-pbrpc|
+||brpc|https://github.com/brpc/brpc|
 ||iris|https://github.com/kataras/iris|
 |3.负载均衡|nginx|https://github.com/nginx/nginx|
 ||seesaw|https://github.com/google/seesaw|
