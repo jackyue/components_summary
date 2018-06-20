@@ -3,9 +3,9 @@
 |----|----|----|----|
 |0.数据协议|protobuf|结构化数据的传输与存储等，通讯框架实现等|https://github.com/google/protobuf|
 ||thrift||https://github.com/apache/thrift|
-|1.web服务器|nginx|web服务器、负载均衡、反向代理等，常用于用户产品后端|https://github.com/nginx/nginx|
+|1.web服务器|nginx|web服务器、负载均衡、反向代理等，用于用户产品后台，如网页/app等后台|https://github.com/nginx/nginx|
 ||apache||https://github.com/apache/httpd|
-|2.网络应用程序框架|netty|https://github.com/netty/netty|
+|2.网络应用程序框架|netty|用于广告系统后台，如播放，检索等|https://github.com/netty/netty|
 ||grpc|https://github.com/grpc/grpc|
 ||sofa-pbrpc|https://github.com/baidu/sofa-pbrpc|
 ||brpc|https://github.com/brpc/brpc|
