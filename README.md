@@ -10,11 +10,10 @@
 ||sofa-pbrpc||https://github.com/baidu/sofa-pbrpc|
 ||brpc||https://github.com/brpc/brpc|
 ||iris||https://github.com/kataras/iris|
-|3.负载均衡|nginx|https://github.com/nginx/nginx|
-||seesaw|https://github.com/google/seesaw|
-|4.日志系统|glog|https://github.com/google/glog|
-||log4j|https://github.com/apache/log4j|
-||glog|https://github.com/google/glog|
+|3.负载均衡|nginx|用于集群扩展，动态分配等分发策略|https://github.com/nginx/nginx|
+||seesaw||https://github.com/google/seesaw|
+|4.日志系统|glog|用于后台服务记录日志|https://github.com/google/glog|
+||log4j||https://github.com/apache/log4j|
 |5.日志采集|kafka|https://github.com/apache/kafka| 
 ||flume|https://github.com/apache/flume|
 ||rabbitmq|https://github.com/rabbitmq/rabbitmq-server|
