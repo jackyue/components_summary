@@ -12,7 +12,7 @@
 ||iris||https://github.com/kataras/iris|
 |3.负载均衡|nginx|用于集群扩展，动态分配等分发策略|https://github.com/nginx/nginx|
 ||seesaw||https://github.com/google/seesaw|
-|4.日志系统|glog|用于后台服务记录日志|https://github.com/google/glog|
+|4.日志系统|glog|用于后台服务记录日志，日志记录是否合理会影响系统整体性能|https://github.com/google/glog|
 ||log4j||https://github.com/apache/log4j|
 |5.日志采集|kafka|https://github.com/apache/kafka| 
 ||flume|https://github.com/apache/flume|
