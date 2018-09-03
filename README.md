@@ -36,7 +36,7 @@
 ||memcached|https://github.com/memcached/memcached|
 |11.OLAP查询引擎|druid|https://github.com/druid-io/druid|
 |12.检索引擎|lucene|https://github.com/apache/lucene-solr|
-|13.机器学习|tensorflow|https://github.com/tensorflow/tensorflow|
+|13.机器学习|tensorflow|https://github.com/tensorfow/tensorflow|
 ||xgboost|https://github.com/dmlc/xgboost|
 ||caffe|https://github.com/BVLC/caffe|
 |14.单元测试|gtest|https://github.com/google/googletest|
@@ -53,4 +53,4 @@
 ||pprof|https://github.com/google/pprof|
 |18.性能优化|jemalloc|https://github.com/jemalloc/jemalloc|
 |19.持续集成工具|jenkins|https://github.com/jenkinsci/jenkins|
-|20.系统可靠性|chaosmonkey|https://github.com/Netflix/chaosmonkey|\
+|20.系统可靠性|chaosmonkey|https://github.com/Netflix/chaosmonkey|
