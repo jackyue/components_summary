@@ -51,5 +51,6 @@
 |17.性能分析工具|gperftools|https://github.com/gperftools/gperftools|
 ||Valgrind|https://github.com/mozilla-b2g/valgrind|
 ||pprof|https://github.com/google/pprof|
-|18.持续集成工具|jenkins|https://github.com/jenkinsci/jenkins|
-|19.系统可靠性|chaosmonkey|https://github.com/Netflix/chaosmonkey|
+|18.性能优化|jemalloc|https://github.com/jemalloc/jemalloc|
+|19.持续集成工具|jenkins|https://github.com/jenkinsci/jenkins|
+|20.系统可靠性|chaosmonkey|https://github.com/Netflix/chaosmonkey|\
