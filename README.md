@@ -19,6 +19,7 @@
 |5.日志采集|kafka|https://github.com/apache/kafka| 
 ||flume|https://github.com/apache/flume|
 ||rabbitmq|https://github.com/rabbitmq/rabbitmq-server|
+||scribe|https://github.com/facebookarchive/scribe|
 |6.分布式文件系统|hdfs|https://github.com/apache/hadoop-hdfs|
 |7.分布式计算框架|mapreduce|https://github.com/apache/hadoop-mapreduce|
 ||spark|https://github.com/apache/spark|
