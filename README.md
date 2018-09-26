@@ -32,7 +32,7 @@
 ||postgresql||https://github.com/postgres/postgres|
 ||hive||https://github.com/apache/hive|
 ||presto||https://github.com/prestodb/presto|
-||hbase|                                                              ||
+||hbase|                                                              |https://github.com/apache/hbase|
 ||leveldb||https://github.com/google/leveldb|
 ||phxsql||https://github.com/Tencent/phxsql|
 ||canal||https://github.com/alibaba/canal|
