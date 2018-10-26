@@ -31,7 +31,6 @@
 |9.数据仓库|mysql||https://github.com/mysql/mysql-server|
 ||postgresql||https://github.com/postgres/postgres|
 ||hive||https://github.com/apache/hive|
-||presto||https://github.com/prestodb/presto|
 ||hbase|                                                              |https://github.com/apache/hbase|
 ||leveldb||https://github.com/google/leveldb|
 ||phxsql||https://github.com/Tencent/phxsql|
@@ -39,6 +38,8 @@
 |10.缓存|redis||https://github.com/antirez/redis|
 ||memcached||https://github.com/memcached/memcached|
 |11.OLAP查询引擎|druid||https://github.com/druid-io/druid|
+||presto||https://github.com/prestodb/presto|
+||Kylin||https://github.com/apache/kylin|
 |12.检索引擎|lucene||https://github.com/apache/lucene-solr|
 ||elasticsearch||https://github.com/elastic/elasticsearch|
 |13.机器学习|tensorflow||https://github.com/tensorfow/tensorflow|
