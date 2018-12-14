@@ -22,6 +22,8 @@
 ||scribe||https://github.com/facebookarchive/scribe|
 ||LogDevice||https://github.com/facebookincubator/LogDevice|
 |6.分布式文件系统|hdfs|用于存储业务日志文件等|https://github.com/apache/hadoop-hdfs|
+||moosefs||https://github.com/moosefs/moosefs|
+||glusterfs||https://github.com/gluster/glusterfs|
 |7.分布式计算框架|mapreduce|用于大数据业务分布式计算|https://github.com/apache/hadoop-mapreduce|
 ||spark||https://github.com/apache/spark|
 ||storm||https://github.com/apache/storm|
