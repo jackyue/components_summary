@@ -3,17 +3,20 @@
 |----|----|----|----|
 |0.数据协议|protobuf|结构化数据的传输与存储、通讯框架实现等，如广告物料、广告系统日志、rpc协议等|https://github.com/google/protobuf|
 ||thrift||https://github.com/apache/thrift|
+||jsoncpp|json解析库，其他的还有rapidjson，jackson等|https://github.com/open-source-parsers/jsoncpp|
+||snappy|数据压缩算法，其他的还有gzip，lz4等|https://github.com/google/snappy|
 |1.web服务器|nginx|web服务器、负载均衡、反向代理等，用于用户产品后台，如网页/app等应用的后台|https://github.com/nginx/nginx|
 ||apache||https://github.com/apache/httpd|
-|2.网络应用程序框架|netty|用于广告系统后台，如播放，检索等后台服务|https://github.com/netty/netty|
+|2.网络应用程序框架|brpc|用于广告系统后台，如播放，检索等后台服务|https://github.com/brpc/brpc|
 ||grpc||https://github.com/grpc/grpc|
 ||sofa-pbrpc||https://github.com/baidu/sofa-pbrpc|
-||brpc||https://github.com/brpc/brpc|
+||netty||https://github.com/netty/netty|
 ||iris||https://github.com/kataras/iris|
 ||muduo||https://github.com/chenshuo/muduo|
 ||mars||https://github.com/Tencent/mars|
 |3.负载均衡|nginx|用于集群扩展，动态分配等分发策略|https://github.com/nginx/nginx|
 ||seesaw||https://github.com/google/seesaw|
+||brpc lalb||https://github.com/brpc/brpc/blob/master/docs/cn/lalb.md|
 |4.日志系统|glog|用于后台服务记录日志，日志记录是否合理会影响系统整体性能|https://github.com/google/glog|
 ||log4j||https://github.com/apache/log4j|
 |5.日志采集|kafka|用户业务日志的上报落地等，业务日志将在日志分析，算法等模块应用|https://github.com/apache/kafka|
@@ -27,8 +30,9 @@
 |7.分布式计算框架|mapreduce|用于大数据业务分布式计算|https://github.com/apache/hadoop-mapreduce|
 ||spark||https://github.com/apache/spark|
 ||storm||https://github.com/apache/storm|
+||flink||https://github.com/apache/flink|
 ||pig||https://github.com/apache/pig|
-|8.协调服务|zookeeper|集群高可用组件|https://github.com/apache/zookeeper|
+|8.协调服务|zookeeper|集群高可用，统一配置管理|https://github.com/apache/zookeeper|
 ||yarn||https://github.com/yarnpkg/yarn|
 |9.数据仓库|mysql|SQL、NOSQL等数据库|https://github.com/mysql/mysql-server|
 ||postgresql||https://github.com/postgres/postgres|
@@ -37,6 +41,7 @@
 ||leveldb||https://github.com/google/leveldb|
 ||phxsql||https://github.com/Tencent/phxsql|
 ||canal||https://github.com/alibaba/canal|
+||cassandra||http://cassandra.apache.org/|
 |10.缓存|redis|基于内存的键值数据库|https://github.com/antirez/redis|
 ||memcached||https://github.com/memcached/memcached|
 |11.OLAP查询引擎|druid|分布式大数据查询引擎|https://github.com/druid-io/druid|
@@ -54,14 +59,18 @@
 ||java||https://docs.oracle.com/javase/tutorial/|
 ||go||https://golang.org/|
 ||python||https://www.python.org/|
+||scala||https://github.com/scala/scala|
+||Lua||https://github.com/lua/lua|
 |16.构建工具|bazel||https://github.com/bazelbuild/bazel|
 ||blade||https://github.com/chen3feng/typhoon-blade|
 |17.性能分析工具|gperftools||https://github.com/gperftools/gperftools|
 ||Valgrind||https://github.com/mozilla-b2g/valgrind|
 ||pprof||https://github.com/google/pprof|
-|18.性能优化|jemalloc||https://github.com/jemalloc/jemalloc|
+|18.内存优化|jemalloc||https://github.com/jemalloc/jemalloc|
 ||tcmalloc||https://github.com/gperftools/gperftools|
 |19.持续集成工具|jenkins||https://github.com/jenkinsci/jenkins|
+||gflags||https://github.com/gflags/gflags|
 |20.系统可靠性|chaosmonkey||https://github.com/Netflix/chaosmonkey|
-|21.监控|elk|elasticsearch + logstash + kibana/grafana|https://github.com/deviantony/docker-elk https://www.elastic.co/elk-stack https://github.com/grafana/grafana|
+|21.监控|elk|elasticsearch + logstash + kibana|https://github.com/deviantony/docker-elk https://www.elastic.co/elk-stack|
+||grafana|kibana的替代方案|https://github.com/grafana/grafana|
 |22.虚拟化|docker|虚拟化容器、自动化测试|https://github.com/topics/docker|
